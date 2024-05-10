@@ -20,15 +20,12 @@
 ![Скриншот 3](https://github.com/PugachEV72/Images/blob/master/2024-05-11_01-12-15.png)
 
 3. Создайте роли и все необходимые настройки для пользователя.
+4. Предусмотрите права пользователя. Пользователь может просматривать логи подов и их конфигурацию
+  (kubectl logs pod <pod_id>, kubectl describe pod <pod_id>).
 
 ### Ответ:
 
 ![Скриншот 4](https://github.com/PugachEV72/Images/blob/master/2024-05-11_00-57-59.png)
-
-4. Предусмотрите права пользователя. Пользователь может просматривать логи подов и их конфигурацию  
-  (kubectl logs pod <pod_id>, kubectl describe pod <pod_id>).
-
-### Ответ:
 
 ![Скриншот 5](https://github.com/PugachEV72/Images/blob/master/2024-05-11_00-48-32.png)
 
